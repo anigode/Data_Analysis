@@ -1,4 +1,4 @@
-### YouTube Data Analysis Project
+# YouTube Data Analysis Project
 ## Overview
 This project leverages the YouTube Data API to extract statistics and details from various YouTube channels, specifically focusing on the following channels:
 - AntismartDevil
